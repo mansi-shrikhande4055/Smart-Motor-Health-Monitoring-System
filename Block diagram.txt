@@ -1,0 +1,13 @@
+Induction Motor
+      ↓
+ Sensors (Vibration, Temperature, Current)
+      ↓
+ Data Acquisition
+      ↓
+ Data Preprocessing (Cleaning + Scaling)
+      ↓
+ Machine Learning Model
+      ↓
+ Fault Prediction (Healthy / Faulty)
+      ↓
+ Output Display (Console / UI)
