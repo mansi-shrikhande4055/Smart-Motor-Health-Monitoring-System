@@ -61,6 +61,11 @@ It helps detect faults early and improves system reliability.
 - Industrial deployment
 
 ---
+## 📸 Project Demo
+
+![Streamlit UI](Screenshot_streamlit.png)
+![Model Output](Screenshot_terminal_output.png)
+![Visualization](Screenshot_plot.png)
 
 ## 👨‍💻 Author
 Mansi Shrikhande
